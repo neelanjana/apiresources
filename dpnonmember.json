@@ -1,0 +1,154 @@
+{
+  "status": true,
+  "data": {
+    "sections": [
+      {
+        "type": "header",
+        "image": "https://im1.dineout.co.in/images/uploads/misc/2018/Apr/4/gplogo.png",
+        "description": "Your access to explore new dishes with unlimited savings on every bill!"
+      },
+      {
+        "type": "savings",
+        "data": [
+          {
+            "title": "Get up to 50% off on your bills at 2000+ premium restaurants",
+            "image": ""
+          },
+          {
+            "title": "Get 1+1 on Buffet at top 5 stars",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "type": "moreBenefits",
+        "title": "More Benefits",
+        "data": [
+          "#• 10% Extra Promo Cash# on MyCash Top Up",
+          "#• Zero# Convenience Fee",
+          "• Access to #Premium Events#"
+        ]
+      },
+      {
+        "type": "membership",
+        "title": "Select a Membership Plan",
+        "data": [
+          {
+            "title": "All City Pack",
+            "sub_title": "#2000+# restaurants",
+            "validity": "#12# month(s)",
+            "price": "₹4000",
+            "offer_price": "₹2499",
+            "cashback": "",
+            "product_id": 7,
+            "discount": "Save 37%",
+            "cities": [
+              "Pune",
+              "Delhi-NCR",
+              "Mumbai",
+              "Bangalore",
+              "Hyderabad",
+              "Kolkata",
+              "Ahmedabad",
+              "Chennai",
+              "Chandigarh",
+              "Jaipur",
+              "Udaipur",
+              "Agra",
+              "Goa",
+              "Lucknow",
+              "Nagpur",
+              "Indore",
+              "Ludhiana",
+              "Kochi",
+              "Surat",
+              "Vadodara"
+            ],
+            "tag": "Best Value",
+            "saving": "Save 50%"
+          },
+          {
+            "title": "All City Pack",
+            "sub_title": "#2000+# restaurants",
+            "validity": "#3# month(s)",
+            "price": "",
+            "offer_price": "₹899",
+            "cashback": "",
+            "product_id": 16,
+            "discount": "",
+            "cities": [
+              "Pune",
+              "Delhi-NCR",
+              "Mumbai",
+              "Bangalore",
+              "Hyderabad",
+              "Kolkata",
+              "Ahmedabad",
+              "Chennai",
+              "Chandigarh",
+              "Jaipur",
+              "Udaipur",
+              "Agra",
+              "Goa",
+              "Lucknow",
+              "Nagpur",
+              "Indore",
+              "Ludhiana",
+              "Kochi",
+              "Surat",
+              "Vadodara"
+            ]
+          },
+          {
+            "title": "Pune Pack",
+            "sub_title": "#161+# restaurants",
+            "validity": "#12# month(s)",
+            "price": "₹999",
+            "offer_price": "₹799",
+            "cashback": "",
+            "product_id": 19,
+            "discount": "Save 20%"
+          }
+        ]
+      },
+      {
+        "type": "other_membership",
+        "title": "See all plans",
+        "deep_link": "dineout://gp"
+      },
+      {
+        "type": "restaurants",
+        "title": "Gourmet Passport Restaurants in Pune",
+        "data": []
+      },
+      {
+        "type": "faq",
+        "title": "Frequently Asked Question",
+        "data": [
+          {
+            "title": "What is Gourmet Passport ?",
+            "description": "Gourmet Passport is a membership pack that allows you to get complimentary offers on food, drinks and buffets at 2000+ restaurants"
+          },
+          {
+            "title": "Do I have to pay anything?",
+            "description": "Yes, Gourmet Passport is available at a starting price of Rs. 799. The actual price varies based on the pack selected."
+          },
+          {
+            "title": "How many times can I use Gourmet Passport?",
+            "description": "You can use each offer up to 3 times at a restaurant. For example, if a restaurant offers complimentary food and drinks, you can get 3 dishes and 3 drinks complimentary at that restaurant."
+          },
+          {
+            "title": "How does it work?",
+            "description": "Using Gourmet Passport does not require any prior reservation or intimation. You simply walk-in to a Gourmet Passport partner restaurant and redeem your coupons."
+          }
+        ],
+        "footer": "view all faq",
+        "deeplink": ""
+      }
+    ],
+    "footer": {
+      "title": "Buy Now"
+    },
+    "is_gp_member": false
+  }
+}
