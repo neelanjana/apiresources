@@ -12,11 +12,11 @@
         "data": [
           {
             "title": "Get up to #50% off# on your bills at 2000+ premium restaurants",
-            "image": "https://st1.dineout-cdn.co.in/images/uploads/misc/2019/Sep/25/combined_offers.jpg"
+            "image": ""
           },
           {
             "title": "#Get 1+1 on Buffet# at top 5 stars",
-            "image": "https://st1.dineout-cdn.co.in/images/uploads/misc/2019/Sep/25/combined_offers.jpg"
+            "image": ""
           }
         ]
       },
@@ -115,6 +115,11 @@
         "type": "other_membership",
         "title": "See all plans",
         "deep_link": "dineout://gp"
+      },
+      {
+        "type": "howItWorks",
+        "title": "How does it work?",
+        "data": []
       },
       {
         "type": "restaurants",
