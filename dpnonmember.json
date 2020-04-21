@@ -34,14 +34,25 @@
         "title": "Select a Membership Plan",
         "data": [
           {
+            "title": "One time Pack",
+            "price": "₹999",
+            "offer_price": "₹799",
+            "cashback": "",
+            "product_id": 19,
+            "tag": "Save 20%",
+            "popUp": {
+              "title": "",
+              "data": []
+            }
+          },
+          {
             "title": "All City Pack",
             "sub_title": "#2000+# restaurants",
-            "validity": "#12# month(s)",
+            "validity": "12 month(s)",
             "price": "₹4000",
             "offer_price": "₹2499",
             "cashback": "",
             "product_id": 7,
-            "discount": "Save 37%",
             "cities": [
               "Pune",
               "Delhi-NCR",
@@ -69,13 +80,13 @@
           },
           {
             "title": "All City Pack",
-            "sub_title": "#2000+# restaurants",
-            "validity": "#3# month(s)",
+            "sub_title": "2000+ restaurants",
+            "validity": "3 month(s)",
             "price": "",
             "offer_price": "₹899",
             "cashback": "",
             "product_id": 16,
-            "discount": "",
+            "tag": "",
             "cities": [
               "Pune",
               "Delhi-NCR",
@@ -102,12 +113,12 @@
           {
             "title": "Pune Pack",
             "sub_title": "#161+# restaurants",
-            "validity": "#12# month(s)",
+            "validity": "12 month(s)",
             "price": "₹999",
             "offer_price": "₹799",
             "cashback": "",
             "product_id": 19,
-            "discount": "Save 20%"
+            "tag": "Best Value"
           }
         ]
       },
