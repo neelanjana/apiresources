@@ -41,8 +41,8 @@
             "product_id": 19,
             "tag": "Save 20%",
             "popUp": {
-              "title": "",
-              "data": []
+              "title": "One Time Trial Pack",
+              "data": ["some text","another text","one more text"]
             }
           },
           {
