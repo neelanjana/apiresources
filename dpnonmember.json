@@ -42,7 +42,12 @@
             "tag": "Save 20%",
             "popUp": {
               "title": "One Time Trial Pack",
-              "data": ["some text","another text","one more text"]
+              "data": [
+                "• This is a trial pack of Dineout Passport",
+                "• One can buy this pack for one time only.",
+                "• This is a trial pack of Dineout Passport",
+                "• One can buy this pack for one time only. Need text, this pack for one time only."
+              ]
             }
           },
           {
