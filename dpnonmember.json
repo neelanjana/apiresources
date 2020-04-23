@@ -140,7 +140,25 @@
       {
         "type": "restaurants",
         "title": "Gourmet Passport Restaurants in Pune",
-        "data": []
+          "data": [
+          {
+            "img": "https://im1.dineout.co.in/images/uploads/restaurant/sharpen/2/r/s/p22122-14969012735938e6990650e.jpg?w=400",
+            "title": "Mumbai 90 Veg World",
+            "subtitle": "",
+            "location": "Goregaon West",
+            "area": "North Western",
+            "address": "Chandiwala Arcade, Ground Floor, Goregaon Link Road",
+            "city_name": "Mumbai",
+            "deeplink": "dineout://r_d?q=22122",
+            "rating": "4.1",
+            "url": "mumbai/mumbai-90-veg-world-goregaon-west-north-western-22122",
+            "offer": {
+              "title": {
+                "text": "15% Off the Total Bill"
+              }
+            }
+          }
+        ]
       },
       {
         "type": "faq",
