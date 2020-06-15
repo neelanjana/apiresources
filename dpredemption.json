@@ -1,0 +1,168 @@
+{
+  "status": "true",
+  "data": {
+    "sections": [
+      {
+        "type": "profile",
+        "data": [
+          {
+            "dpLogo": "https://im1.dineout.co.in/images/uploads/misc/2017/Oct/27/gp-logo_2.png",
+            "name": "Neelanjana Chatterjee",
+            "phone": "9873827070",
+            "expiryDetails": {
+              "lText": "Your Active Membership",
+              "rText": "Valid Till",
+              "data": [
+                {
+                  "lText": "Delhi-NCR - 12 months Pack",
+                  "rText": "07 Jul 2019",
+                  "status": 1
+                },
+                {
+                  "lText": "Delhi-NCR - 12 months Pack",
+                  "rText": "05 Sep 2021",
+                  "status": 1,
+                  "info": {
+                    "text": "Your Gourmet Passport membership with Times Prime",
+                    "icon": "https://st1.dineout-cdn.co.in/images/uploads/misc/2019/Jan/17/information.png"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "type": "buyDp",
+        "data": [
+          {
+            "title": "Want to buy other packs?",
+            "subtitle": "12 exiciting options",
+            "buttonTxt": "Buy Now",
+            "deeplink": "",
+            "img": ""
+          }
+        ]
+      },
+      {
+        "header": {
+          "title": "Your Membership History"
+        },
+        "type": "membershipHistory",
+        "data": [
+          {
+            "lText": "Delhi-NCR - 12 months Pack",
+            "rText": "07 Jul 2019",
+            "status": 1
+          },
+          {
+            "lText": "Delhi-NCR - 12 months Pack",
+            "rText": "05 Sep 2021",
+            "status": 1,
+            "info": {
+              "text": "Your Gourmet Passport membership with Times Prime",
+              "icon": "https://st1.dineout-cdn.co.in/images/uploads/misc/2019/Jan/17/information.png"
+            }
+          }
+        ]
+      },
+      {
+        "type": "savings",
+        "header": {
+          "title": "Dineout Passport Benefits"
+        },
+        "data": [
+          {
+            "title": "Get up to #50% off# on your bills at 2000+ premium restaurants",
+            "image": "https://st1.dineout-cdn.co.in/images/uploads/misc/2020/Apr/24/offer_dp.png"
+          },
+          {
+            "title": "#Get 1+1 on Buffet# at top 5 stars",
+            "image": "https://st1.dineout-cdn.co.in/images/uploads/mailer/2020/Apr/24/offer_dp2.png"
+          }
+        ]
+      },
+      {
+        "type": "moreBenefits",
+        "data": [
+          "• 10% Extra Promo Cash on MyCash Top Up",
+          "• Zero Convenience Fee",
+          "• Access to #Premium Events"
+        ]
+      },
+      {
+        "type": "redemptionList",
+        "header": {
+          "title": "Redemption History",
+          "subtitle": "Redeemed On"
+        },
+        "data": [
+          {
+            "title1": "Complimentary Dishes",
+            "title2": "Cafe Delhi Heights, DLF Phase - 3, Gurgaon",
+            "title3": "Redeemed on 12 Oct 2019,04:03pm",
+            "couponCount": 1
+          },
+          {
+            "title1": "Complimentary Dishes",
+            "title2": "SodaBottleOpenerWala, Sector 18, Noida",
+            "title3": "Redeemed on 18 Sep 2019,09:43pm",
+            "couponCount": 1
+          },
+          {
+            "title1": "Complimentary Dishes",
+            "title2": "38 Barracks, Connaught Place, Central Delhi",
+            "title3": "Redeemed on 09 Sep 2019,08:28pm",
+            "couponCount": 1
+          },
+          {
+            "title1": "Complimentary Drinks",
+            "title2": "38 Barracks, Connaught Place, Central Delhi",
+            "title3": "Redeemed on 09 Sep 2019,08:23pm",
+            "couponCount": 2
+          },
+          {
+            "title1": "1 + 1 on Buffet/ Dishes",
+            "title2": "Pluck, Aerocity, South Delhi",
+            "title3": "Redeemed on 18 Aug 2019,12:54pm",
+            "couponCount": 1
+          },
+          {
+            "title1": "Complimentary Drinks",
+            "title2": "Local, Connaught Place, Central Delhi",
+            "title3": "Redeemed on 04 Aug 2019,06:36pm",
+            "couponCount": 2
+          },
+          {
+            "title1": "Complimentary Drinks",
+            "title2": "Oh! Calcutta, Nehru Place, South Delhi",
+            "title3": "Redeemed on 03 Aug 2019,08:53pm",
+            "couponCount": 1
+          },
+          {
+            "title1": "1 + 1 on Buffet",
+            "title2": "MIST, Connaught Place, Central Delhi",
+            "title3": "Redeemed on 13 Jul 2019,11:19pm",
+            "couponCount": 3
+          },
+          {
+            "title1": "Complimentary Dishes",
+            "title2": "Lavaash by Saby, Mehrauli, South Delhi",
+            "title3": "Redeemed on 10 Feb 2019,03:18pm",
+            "couponCount": 3
+          },
+          {
+            "title1": "Complimentary Dishes",
+            "title2": "Mamagoto, Sector 18, Noida",
+            "title3": "Redeemed on 28 Nov 2018,08:40pm",
+            "couponCount": 1
+          }
+        ]
+      }
+    ],
+    "footer": {
+      "title": "Explore Dineout Passport",
+      "deeplink": ""
+    }
+  }
+}
