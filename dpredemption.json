@@ -84,6 +84,9 @@
       },
       {
         "type": "moreBenefits",
+        "header": {
+          "title": "More Benefits"
+        },
         "data": [
           "• 10% Extra Promo Cash on MyCash Top Up",
           "• Zero Convenience Fee",
