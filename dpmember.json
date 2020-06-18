@@ -1,0 +1,300 @@
+{
+  "status": true,
+  "data": {
+    "sections": [
+      {
+        "type": "header",
+        "image": "https://st1.dineout-cdn.co.in/images/uploads/misc/2020/Apr/24/dp_logo.png",
+        "description": "A membership program which gives you an exclusive access at 2250+ partner restaurants"
+      },
+      {
+        "type": "search",
+        "title": "Search for more restaurant here."
+      },
+      {
+        "type": "horizontal_offer",
+        "title": "Complimentary Offers with your membership",
+        "data": [
+          {
+            "deeplink": "dineout://s?gp_offer_types=Buffet&flow_type=gp&q=",
+            "imgUrl": "https://st1.dineout-cdn.co.in/images/uploads/misc/2019/Oct/30/gp_buffet.jpg"
+          },
+          {
+            "deeplink": "dineout://s?tag=1 plus 1 on Food and Drinks&is_gp=true&sortby=distanceASC&flow_type=gp&q=",
+            "imgUrl": "https://st1.dineout-cdn.co.in/images/uploads/misc/2019/Oct/30/gp_food_drinks.jpg"
+          },
+          {
+            "deeplink": "dineout://s?gp_offer_types=Main Course&flow_type=gp&q=",
+            "imgUrl": "https://st1.dineout-cdn.co.in/images/uploads/misc/2019/Oct/30/gp_food.jpg"
+          },
+          {
+            "deeplink": "dineout://s?gp_offer_types=Happy Hours&flow_type=gp&q=",
+            "imgUrl": "https://st1.dineout-cdn.co.in/images/uploads/misc/2019/Oct/30/gp_drinks.jpg"
+          }
+        ]
+      },
+      {
+        "type": "membership",
+        "data": [
+          "• Hyderabad Pack, 12 Months",
+          "• Delhi Pack, 3 Months"
+        ],
+        "ctaImg": "https://st1.dineout-cdn.co.in/images/uploads/misc/2019/Jul/10/group_25.png",
+        "deeplink": "dineout://s?is_gp=true&sortby=distanceASC&q=&tag=Gourmet Passport&flow_type=gp"
+      },
+      {
+        "type": "horizontal_banners",
+        "title": "Restaurant Collections",
+        "data": [
+          {
+            "deeplink": "dineout://s?t=5 Star&is_gp=true&q=&flow_type=gp",
+            "url": "mumbai-restaurants/5-Star?&",
+            "imgUrl": "https://st1.dineout-cdn.co.in/images/uploads/misc/2019/Jul/10/chair.png"
+          },
+          {
+            "deeplink": "dineout://s?t=New On Gourmet Passport&is_gp=true&q=&flow_type=gp",
+            "url": "mumbai-restaurants/Places-to-Celebrate?&",
+            "imgUrl": "https://st1.dineout-cdn.co.in/images/uploads/misc/2019/Nov/12/new_on_gp.png"
+          },
+          {
+            "deeplink": "dineout://s?t=Cool and Casual&is_gp=true&q=&flow_type=gp",
+            "url": "mumbai-restaurants/Cool-and-Casual?&",
+            "imgUrl": "https://st1.dineout-cdn.co.in/images/uploads/misc/2019/Jul/10/group_11.png"
+          },
+          {
+            "deeplink": "dineout://s?t=Date Nights&is_gp=true&q=&flow_type=gp",
+            "url": "mumbai-restaurants/Date-Nights?&",
+            "imgUrl": "https://st1.dineout-cdn.co.in/images/uploads/mailer/2019/Jul/10/group_23.png"
+          }
+        ]
+      },
+      {
+        "type": "restaurants",
+        "title": "Gourmet Passport Restaurants in Mumbai",
+        "data": [
+          {
+            "r_id": "50699",
+            "img": "https://im1.dineout.co.in/images/uploads/restaurant/sharpen/5/l/x/p50699-15520272525c820e742f57f.jpg?w=400",
+            "title": "Lilt",
+            "subtitle": "",
+            "location": "Lower Parel",
+            "area": "South Mumbai",
+            "address": "Mathuradas Mill Compound, N.M. Joshi Marg",
+            "city_name": "Mumbai",
+            "deeplink": "dineout://r_d?q=50699",
+            "rating": "4.4",
+            "url": "mumbai/lilt-lower-parel-south-mumbai-50699",
+            "offer_count": "1",
+            "offer": {
+              "title": {
+                "text": "1 Offer(s) Available"
+              }
+            }
+          },
+          {
+            "r_id": "61012",
+            "img": "https://im1.dineout.co.in/images/uploads/restaurant/sharpen/6/q/i/p61012-15653310205d4d0e4c36799.jpg?w=400",
+            "title": "Healthylicious",
+            "subtitle": "",
+            "location": "Andheri Lokhandwala",
+            "area": "Andheri West",
+            "address": "Royal Classic Building, Andheri Lokhandwala, New Link Road",
+            "city_name": "Mumbai",
+            "deeplink": "dineout://r_d?q=61012",
+            "rating": "4.4",
+            "url": "mumbai/healthylicious-andheri-lokhandwala-andheri-west-61012",
+            "offer_count": "1",
+            "offer": {
+              "title": {
+                "text": "1 Offer(s) Available"
+              }
+            }
+          },
+          {
+            "r_id": "2428",
+            "img": "https://im1.dineout.co.in/images/uploads/restaurant/sharpen/2/s/v/p2428-148429172058787e888f0bc.jpg?w=400",
+            "title": "Something's Fishy",
+            "subtitle": "",
+            "location": "M.I.D.C",
+            "area": "Andheri East",
+            "address": "The International by Tunga Hotel, Central Road,",
+            "city_name": "Mumbai",
+            "deeplink": "dineout://r_d?q=2428",
+            "rating": "4.4",
+            "url": "mumbai/somethings-fishy-midc-andheri-east-2428",
+            "offer_count": "9",
+            "offer": {
+              "title": {
+                "text": "9 Offer(s) Available"
+              }
+            }
+          },
+          {
+            "r_id": "2448",
+            "img": "https://im1.dineout.co.in/images/uploads/restaurant/sharpen/9/p/e/p992-149069208658da27f608922.jpg?w=400",
+            "title": "Mahesh Lunch Home",
+            "subtitle": "",
+            "location": "Juhu",
+            "area": "Andheri West",
+            "address": "Kings Apartment, Theosophical Housing Colony, Juhu Tara Road",
+            "city_name": "Mumbai",
+            "deeplink": "dineout://r_d?q=2448",
+            "rating": "4.4",
+            "url": "mumbai/mahesh-lunch-home-juhu-andheri-west-2448",
+            "offer_count": "3",
+            "offer": {
+              "title": {
+                "text": "3 Offer(s) Available"
+              }
+            }
+          },
+          {
+            "r_id": "12699",
+            "img": "https://im1.dineout.co.in/images/uploads/restaurant/sharpen/1/a/p/p12699-146080241757121371c9353.jpg?w=400",
+            "title": "Foodland Bar & Restaurant",
+            "subtitle": "",
+            "location": "Malad West",
+            "area": "North Western",
+            "address": "Jagruti Apartment, 3 & 4, Sainath Road, ",
+            "city_name": "Mumbai",
+            "deeplink": "dineout://r_d?q=12699",
+            "rating": "4.2",
+            "url": "mumbai/foodland-bar-restaurant-malad-west-north-western-12699",
+            "offer_count": "1",
+            "offer": {
+              "title": {
+                "text": "1 Offer(s) Available"
+              }
+            }
+          },
+          {
+            "r_id": "16514",
+            "img": "https://im1.dineout.co.in/images/uploads/restaurant/sharpen/9/p/e/p992-149069208658da27f608922.jpg?w=400",
+            "title": "Mahesh Lunch Home",
+            "subtitle": "",
+            "location": "Vashi",
+            "area": "Navi Mumbai",
+            "address": "Platinum Techno Park, Ground Floor, Sector 30A,",
+            "city_name": "Mumbai",
+            "deeplink": "dineout://r_d?q=16514",
+            "rating": "4.4",
+            "url": "mumbai/mahesh-lunch-home-vashi-navi-mumbai-16514",
+            "offer_count": "4",
+            "offer": {
+              "title": {
+                "text": "4 Offer(s) Available"
+              }
+            }
+          },
+          {
+            "r_id": "20631",
+            "img": "https://im1.dineout.co.in/images/uploads/restaurant/sharpen/2/g/x/p20631-1479383477582d99b5c676e.jpg?w=400",
+            "title": "Fable",
+            "subtitle": "",
+            "location": "Juhu",
+            "area": "Andheri West",
+            "address": "Ashiyana Apartment, 3, JVPD, NS Road 13",
+            "city_name": "Mumbai",
+            "deeplink": "dineout://r_d?q=20631",
+            "rating": "4.4",
+            "url": "mumbai/fable-juhu-andheri-west-20631",
+            "offer_count": "3",
+            "offer": {
+              "title": {
+                "text": "3 Offer(s) Available"
+              }
+            }
+          },
+          {
+            "r_id": "20904",
+            "img": "https://im1.dineout.co.in/images/uploads/restaurant/sharpen/2/l/e/p20904-145466754756b4771b88ef2.jpg?w=400",
+            "title": "True Tramm Trunk",
+            "subtitle": "",
+            "location": "Juhu",
+            "area": "Andheri West",
+            "address": "1st Floor, JVPD Scheme, VL Mehta Road",
+            "city_name": "Mumbai",
+            "deeplink": "dineout://r_d?q=20904",
+            "rating": "4.4",
+            "url": "mumbai/true-tramm-trunk-juhu-andheri-west-20904",
+            "offer_count": "1",
+            "offer": {
+              "title": {
+                "text": "1 Offer(s) Available"
+              }
+            }
+          },
+          {
+            "r_id": "21099",
+            "img": "https://im1.dineout.co.in/images/uploads/restaurant/sharpen/2/h/x/p21099-1502097875598831d3516c8.jpg?w=400",
+            "title": "Banjara Dhaba",
+            "subtitle": "",
+            "location": "Borivali West",
+            "area": "North Western",
+            "address": "IC Colony, Off Holy Cross Road",
+            "city_name": "Mumbai",
+            "deeplink": "dineout://r_d?q=21099",
+            "rating": "4.2",
+            "url": "mumbai/banjara-dhaba-borivali-west-north-western-21099",
+            "offer_count": "2",
+            "offer": {
+              "title": {
+                "text": "2 Offer(s) Available"
+              }
+            }
+          },
+          {
+            "r_id": "21678",
+            "img": "https://im1.dineout.co.in/images/uploads/restaurant/sharpen/2/a/i/p21678-1460380959570ba51f91c20.jpg?w=400",
+            "title": "Aromas Cafe",
+            "subtitle": "",
+            "location": "Juhu",
+            "area": "Andheri West",
+            "address": "Gazebo House, 52, Ground Floor, Gulmohar Road",
+            "city_name": "Mumbai",
+            "deeplink": "dineout://r_d?q=21678",
+            "rating": "4.4",
+            "url": "mumbai/aromas-cafe-juhu-andheri-west-21678",
+            "offer_count": "1",
+            "offer": {
+              "title": {
+                "text": "1 Offer(s) Available"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "type": "howToUse",
+        "title": "How To Use Gourmet Passport",
+        "data": [
+          {
+            "icon": "https://st1.dineout-cdn.co.in/images/uploads/misc/2019/Jul/10/group_19.png",
+            "title": "Step 1",
+            "description": "Walk-in to any of the gourmet passport partner restaurants."
+          },
+          {
+            "icon": "https://st1.dineout-cdn.co.in/images/uploads/misc/2019/Jul/10/group_5.png",
+            "title": "Step 2",
+            "description": "Place your order and inform the staff that you are a gourmet passport member."
+          },
+          {
+            "icon": "https://st1.dineout-cdn.co.in/images/uploads/misc/2019/Jul/10/2.png",
+            "title": "Step 3",
+            "description": "Redeem your coupons at the time of billing and avail your offer."
+          }
+        ],
+        "footer": "Know More",
+        "deeplink": ""
+      }
+    ],
+    "renewButton": {
+      "title": "Your membership expires in 30 days!",
+      "ctaImg": ""
+    },
+    "is_dp_member": 1,
+    "r_id": 1234,
+    "offer_id": 3456,
+    "fromRdp": 1
+  }
+}
