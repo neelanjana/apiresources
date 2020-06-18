@@ -1,6 +1,10 @@
 {
   "status": "true",
   "data": {
+    "next_page": -1,
+    "header": {
+      "title": "My Dineout Passport"
+    },
     "sections": [
       {
         "type": "profile",
@@ -173,7 +177,6 @@
         ]
       }
     ],
-      "next_page":-1,
     "footer": {
       "title": "Explore Dineout Passport",
       "deeplink": ""
