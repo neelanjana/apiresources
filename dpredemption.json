@@ -1,7 +1,7 @@
 {
   "status": "true",
   "data": {
-    "next_page":1,
+    "next_page":-1,
     "sections": [
       {
         "type": "profile",
