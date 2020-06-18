@@ -34,7 +34,7 @@
         ]
       },
       {
-        "type": "membership",
+        "type": "membership_history",
         "data": [
           "• Hyderabad Pack, 12 Months",
           "• Delhi Pack, 3 Months"
@@ -276,7 +276,8 @@
           {
             "icon": "https://st1.dineout-cdn.co.in/images/uploads/misc/2019/Jul/10/group_5.png",
             "title": "Step 2",
-            "description": "Place your order and inform the staff that you are a gourmet passport member."
+            "description": "Place your order and inform the staff that you are a gourmet passport 
+            ."
           },
           {
             "icon": "https://st1.dineout-cdn.co.in/images/uploads/misc/2019/Jul/10/2.png",
