@@ -1,0 +1,179 @@
+{
+  "status": true,
+  "data": {
+    "backgroundColor": "",
+    "sections": [
+      {
+        "type": "header",
+        "image": "https://st1.dineout-cdn.co.in/images/uploads/misc/2020/Aug/13/homepage.png",
+        "title1": {
+          "text": "You can bank on your HDFC Bank Credit Card for better dining experiences!",
+          "textColor": ""
+        },
+        "title2": {
+          "text": "Exclusive Privileges | Bigger Savings",
+          "textColor": ""
+        }
+      },
+      {
+        "type": "banner",
+        "data": [
+          {
+            "image": "https://st1.dineout-cdn.co.in/images/uploads/misc/2020/Aug/19/flat_25.png",
+            "deeplink": "",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "type": "footer",
+        "title": {
+          "text": "To avail this exclusive dining offers Login/Signup with your Dineout",
+          "textColor": ""
+        },
+        "cta": {
+          "text": "",
+          "backgroundColor": "",
+          "url": "",
+          "deeplink": ""
+        }
+      },
+      {
+        "type": "cardDetails",
+        "title1": {
+          "text": "Verify your HDFC Bank Credit Card",
+          "textColor": ""
+        },
+        "cta": {
+          "text": "Unlock Offers",
+          "backgroundColor": "",
+          "url": "",
+          "deeplink": ""
+        },
+        "title2": {
+          "text": "₹1 transaction of will be made from your HDFC Bank Credit Card.",
+          "textColor": ""
+        }
+      },
+      {
+        "type": "dinerCard",
+        "img": "",
+        "name": {
+          "text": "John Doe",
+          "textColor": ""
+        },
+        "cardNumber": {
+          "text": "1234567890",
+          "textColor": ""
+        },
+        "title1": {
+          "text": "Congratulations!",
+          "textColor": ""
+        },
+        "title2": {
+          "text": "Your Diners Black card is registered successfully.",
+          "textColor": ""
+        }
+      },
+      {
+        "type": "cardPrivileges",
+        "title": {
+          "text": "Privileges On Your Card",
+          "textColor": ""
+        },
+        "backgroundColor": "",
+        "img": "",
+        "validity": "12 Months • All Cities",
+        "data": [
+          {
+            "text": "Flat 25% Off on Total Bill",
+            "icon": ""
+          },
+          {
+            "text": "1+1 on Buffet",
+            "icon": ""
+          }
+        ],
+        "benefits": {
+          "title": "See All Benefits",
+          "data": [
+            {
+              "text": "10% Extra Promo Cash on MyCash Top Up",
+              "icon": ""
+            },
+            {
+              "text": "Zero Convenience Fee",
+              "icon": ""
+            },
+            {
+              "text": "Access to Premium Events",
+              "icon": ""
+            }
+          ]
+        },
+        "cta": {
+          "text": "Activate/Explore Offers",
+          "backgroundColor": "",
+          "url": "",
+          "deeplink": "",
+          "cityPopup": "false"
+        },
+        "activateVoucher": {
+          "isVoucher": "false",
+          "title": "* Enter the voucher code, which you have recieved from your HDFC Bank."
+        }
+      },
+      {
+        "type": "dinerPrivileges",
+        "cardDetails": {
+          "img": "",
+          "name": {
+            "text": "John Doe",
+            "textColor": ""
+          },
+          "cardNumber": {
+            "text": "1234567890",
+            "textColor": ""
+          }
+        },
+        "title1": {
+          "text": "Your Diners Black",
+          "textColor": ""
+        },
+        "title2": {
+          "text": "Dining Privileges",
+          "textColor": ""
+        },
+        "title3": {
+          "text": "Save over #₹52,000# a year",
+          "textColor": ""
+        }
+      },
+      {
+        "type": "editCard",
+        "title1": {
+          "text": "Got a new card?",
+          "textColor": ""
+        },
+        "title2": {
+          "text": "Edit Card",
+          "textColor": ""
+        },
+        "url": "",
+        "deeplink": ""
+      },
+      {
+        "type": "tnc",
+        "title": {
+          "text": "View T&C",
+          "textColor": ""
+        },
+        "url": "",
+        "deeplink": ""
+      },
+      {
+        "type": "hottestDestination"
+      }
+    ]
+  }
+}
