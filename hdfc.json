@@ -7,28 +7,39 @@
       "section": [
         {
           "type": "header",
-          "image": "https://st1.dineout-cdn.co.in/images/uploads/misc/2020/Oct/5/group_25.png",
+          "image": "https://st1.dineout-cdn.co.in/images/uploads/misc/2020/Aug/13/homepage.png",
           "title1": {
             "text": "You can bank on your HDFC Bank Credit Card for better dining experiences!",
-            "textColor": "#ffffff"
+            "textColor": ""
           },
           "title2": {
             "text": "Exclusive Privileges | Bigger Savings",
-            "textColor": "#c79f57"
+            "textColor": ""
           }
         },
         {
           "type": "banner",
           "data": [
             {
-              "image": "https://st1.dineout-cdn.co.in/images/uploads/misc/2020/Oct/5/group_39.png",
+              "image": "https://st1.dineout-cdn.co.in/images/uploads/misc/2020/Aug/19/flat_25.png",
               "deeplink": "",
               "url": ""
-            },
+            }
+          ]
+        },
+        {
+          "type": "bank_banner",
+          "data": [
             {
-              "image": "https://st1.dineout-cdn.co.in/images/uploads/misc/2020/Oct/5/offer_cards.png",
+              "logo": "",
               "deeplink": "",
-              "url": ""
+              "url": "",
+              "textColor": "#fff",
+              "primaryColor": "#01285a",
+              "secondaryColor": "#1a77cd",
+              "offerTitle": "Get Extra 15% Off",
+              "title": "when you pay using HDFC Bank Diners Black Credit Card via Dineout Pay",
+              "subtitle": "Additionally Earn 4 InterMiles on every ₹150 spent on your spends as per product feature."
             }
           ]
         },
@@ -36,14 +47,14 @@
           "type": "footer",
           "title": {
             "text": "To avail this exclusive dining offers Login/Signup with your Dineout",
-            "textColor": "#ffffff"
+            "textColor": ""
           },
           "cta": {
             "text": "LOGIN/SIGNUP with Dineout",
-            "backgroundColor": "#ff645a",
+            "backgroundColor": "",
             "url": "",
             "deeplink": "",
-            "loginRequired": true
+            "loginRequired": "true/false"
           }
         },
         {
@@ -52,15 +63,15 @@
             "text": "Verify your HDFC Bank Credit Card",
             "textColor": ""
           },
+          "title2": {
+            "text": "₹1 transaction of will be made from your HDFC Bank Credit Card.",
+            "textColor": ""
+          },
           "cta": {
             "text": "Unlock Offers",
             "backgroundColor": "",
             "url": "",
             "deeplink": ""
-          },
-          "title2": {
-            "text": "₹1 transaction of will be made from your HDFC Bank Credit Card.",
-            "textColor": ""
           }
         },
         {
@@ -126,6 +137,10 @@
             "deeplink": "",
             "cityPopup": "false"
           },
+          "expiryDate": {
+            "text": "Expiring on 23 Sep 2020",
+            "textColor": ""
+          },
           "activateVoucher": {
             "isVoucher": "false",
             "title": "* Enter the voucher code, which you have recieved from your HDFC Bank."
@@ -180,9 +195,36 @@
           "deeplink": ""
         },
         {
-          "type": "hottestDestination"
+          "type": "exploreRestaurantList",
+          "title": "Explore Dineout Pay Restaurants",
+          "data": [
+            {
+              "rating": 4.2,
+              "title": "Blues",
+              "r_id": 831,
+              "area": "Central Delhi",
+              "img": "https://im1.dineout.co.in/images/uploads/restaurant/sharpen/8/n/y/p831-1445931296562f29206b823.jpg?w=400",
+              "location": "Connaught Place",
+              "offer_count": 0,
+              "deepLink": "dineout://r_d?q=831",
+              "offer": {
+                "title": {
+                  "icon": "https://st1.dineout-cdn.co.in/images/uploads/misc/2020/Sep/7/dp_icon.png",
+                  "text": "20% Off the Total Bill",
+                  "color": "#5d1241"
+                }
+              }
+            }
+          ]
         }
-      ]
+      ],
+      "footer": {
+        "cta": {
+          "text": "Unlock Offer",
+          "textColor": "",
+          "backgroundColor": ""
+        }
+      }
     }
   }
 }
