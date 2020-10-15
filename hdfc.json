@@ -142,7 +142,7 @@
             "textColor": ""
           },
           "activateVoucher": {
-            "isVoucher": "false",
+            "isVoucher": "true",
             "title": "* Enter the voucher code, which you have recieved from your HDFC Bank."
           }
         },
