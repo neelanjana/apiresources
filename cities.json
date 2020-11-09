@@ -1,47 +1,46 @@
-[
-  {
-    "lat": "40.7128",
-    "long": "74.0060",
-    "status":"none"
-  },
-  {
-    "lat": "45.5017",
-    "long": "73.5673",
-        "status":"none"
-  },
-  {
-    "lat": "41.8781",
-    "long": "87.6298",
-        "status":"none"
-  },
-  {
-    "lat": " 49.2827",
-    "long": "123.1207",
-        "status":"none"
-  },
-  {
-    "lat": "37.7749",
-    "long": "122.4194",
-        "status":"none"
-  },
-  {
-    "lat": "34.0522",
-    "long": "118.2437",
-        "status":"none"
-  },
-  {
-    "lat": "45.4215",
-    "long": "75.6972",   
-    "status":"none"
-  },
-  {
-    "lat": "51.0447",
-    "long": "114.0719",
-        "status":"none"
-  },
-  {
-    "lat": "32.7767",
-    "long": "96.7970",
-        "status":"none"
-  }
+[{
+"lat": "40.71",
+"long": "-74.01",
+"status": "none"
+},
+{
+"lat": "45.5",
+"long": "-73.58",
+"status": "none"
+},
+{
+"lat": "41.85",
+"long": "-123.13",
+"status": "none"
+},
+{
+"lat": "37.78",
+"long": "-122.42",
+"status": "none"
+},
+{
+"lat": "34.05",
+"long": "-118.24",
+"status": "none"
+},
+{
+"lat": "47.61",
+"long": "-122.33",
+"status": "none"
+},
+{
+"lat": "19.43",
+"long": "-99.13",
+"status": "none"
+},
+{
+"lat": "45.42",
+"long": "-114.08",
+"status": "none"
+},
+{
+"lat": "32.78",
+"long": "-96.8",
+"status": "none"
+}
 ]
