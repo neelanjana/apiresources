@@ -1,0 +1,54 @@
+{
+  "leader": [
+    {
+      "region": "ON",
+      "user": [
+        {
+          "userId": "3453",
+          "rank": "1",
+          "photo": "",
+          "name": "",
+          "business": "",
+          "meetingno": ""
+        },
+        {
+          "userId": "3454",
+          "rank": "3",
+          "photo": "",
+          "name": "",
+          "business": "",
+          "meetingno": ""
+        }
+      ]
+    },
+    {
+      "region": "QC & NCR",
+      "user": [
+        {
+          "userId": "3455",
+          "rank": "1",
+          "photo": "",
+          "name": "",
+          "business": "",
+          "meetingno": ""
+        },
+        {
+          "userId": "3456",
+          "rank": "2",
+          "photo": "",
+          "name": "",
+          "business": "",
+          "meetingno": ""
+        }
+      ]
+    }
+  ],
+  "userinfo": {
+    "userId": "3477",
+    "rank": "34",
+    "photo": "",
+    "name": "",
+    "business": "",
+    "meetingno": ""
+  }
+}
